@@ -104,4 +104,6 @@ public class Lotto {
 
         return rueckgabe;
     }
+
+
 }
